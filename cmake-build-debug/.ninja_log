@@ -1,0 +1,23 @@
+# ninja log v5
+1	560	1712859130290992781	CMakeFiles/Trabalho_do_minimax.dir/minimax.cpp.o	35bc6c9e25aabd6f
+0	685	1712859130416815808	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+685	832	1712859130563759256	Trabalho_do_minimax	5550479345730aad
+3	1028	1712926776125585788	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+1028	1255	1712926776356385709	Trabalho_do_minimax	5550479345730aad
+3	816	1712950383346722651	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+9	671	1712950567103455402	CMakeFiles/Trabalho_do_minimax.dir/minimax.cpp.o	35bc6c9e25aabd6f
+8	840	1712950567275519449	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+840	996	1712950567432972287	Trabalho_do_minimax	5550479345730aad
+3	1044	1712950789914634328	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+1044	1274	1712950790150419997	Trabalho_do_minimax	5550479345730aad
+3	731	1712950901966497539	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+732	830	1712950902069165148	Trabalho_do_minimax	5550479345730aad
+3	856	1712951114319509819	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+856	1122	1712951114590155303	Trabalho_do_minimax	5550479345730aad
+3	773	1712951241580650535	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+774	907	1712951241716965759	Trabalho_do_minimax	5550479345730aad
+4	657	1712952917221346884	CMakeFiles/Trabalho_do_minimax.dir/minimax.cpp.o	35bc6c9e25aabd6f
+3	813	1712952917378029239	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+813	1083	1712952917647440604	Trabalho_do_minimax	5550479345730aad
+3	545	1712966282091577146	CMakeFiles/Trabalho_do_minimax.dir/main.cpp.o	d2b821b778863070
+546	667	1712966282215509000	Trabalho_do_minimax	5550479345730aad

@@ -1,0 +1,3 @@
+/Users/andreluizfariavitor/CLionProjects/Trabalho_do_minimax/cmake-build-debug/CMakeFiles/Trabalho_do_minimax.dir
+/Users/andreluizfariavitor/CLionProjects/Trabalho_do_minimax/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andreluizfariavitor/CLionProjects/Trabalho_do_minimax/cmake-build-debug/CMakeFiles/rebuild_cache.dir
