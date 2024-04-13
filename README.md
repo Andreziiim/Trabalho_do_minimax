@@ -45,6 +45,10 @@ Os tempos médios de execução para cada algoritmo e tamanho de entrada são vi
 
 Espero que este README forneça uma visão clara sobre a implementação dos algoritmos Minimax e sua análise de desempenho. Se precisar de mais informações ou esclarecimentos, não hesite em perguntar!
 
+Exemplo de gráfico gerado:
+
+![grafico exemplo 1](https://github.com/Andreziiim/Trabalho_do_minimax/assets/152534845/5b7e1868-abb5-4ce1-9ad6-67de5f83715e)
+
 
 ## Relação com a Análise Assintótica
 
